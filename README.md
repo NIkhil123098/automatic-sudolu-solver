@@ -1,1 +1,1 @@
-# automatic-sudolu-solver
+# automatic-sudoku-solver
